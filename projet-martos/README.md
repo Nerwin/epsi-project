@@ -5,13 +5,13 @@ Projets survey &amp; meetings Meteor/JAVAEE
 * Une base de données MYSQL
 * Un serveur glassfish
 * Une application Meteor (Blaze | Ionic (Meteoric)) --> Mobile & Web !
-* Un web service REST en JAVAEE
+* Un web service REST en J2EE
 
 ###Description
 L'application survey-meeting
-* Créer un RDV avec des collègues en quelques clicks
-* Créer une enquête que vous pourrez partagés rapidement 
-* Un file d'actualité sera dispoible afin d'avoir un aperçu rapide de ce qui se passe dans votre entreprise
+* Créer un RDV avec des collègues en quelques clics
+* Créer une enquête que vous pourrez partager rapidement 
+* Un fil d'actualité sera disponible afin d'avoir un aperçu rapide de ce qui se passe dans votre entreprise
 
 Le but du projet est de manipuler un serveur glassfish et de créer un web service consummé par une application cliente 
 
